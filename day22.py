@@ -23,7 +23,8 @@ import json
 #     json.dump(data, f, indent=2)
 
 
-rates
+#trying to change
+
 # from urllib.request import urlopen
 
 # with urlopen("https://open.er-api.com/v6/latest/USD") as response:
@@ -32,3 +33,5 @@ rates
 # data = json.loads(source)
 
 # print(json.dumps(data, indent=2))
+
+#new lines added
